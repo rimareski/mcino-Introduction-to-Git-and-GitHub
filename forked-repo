@@ -1,2 +1,7 @@
 curl -u rimareski https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
 
+[
+  {
+    "full_name": "rimareski/github-final-project"
+  }
+]
