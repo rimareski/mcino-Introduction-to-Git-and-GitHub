@@ -1,0 +1,5 @@
+git branch -v
+  bug-fix-typo 24d6a7a Fix typo in README
+* main         5708596 Add merge branches output
+
+
